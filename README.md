@@ -9,7 +9,7 @@ Extract insights using visual and statistical exploration of the Titanic dataset
 ## Deliverables
 - **`Titanic_Analysis_Report.pdf`** - Complete findings report
 - **`titanic_analysis.py`** - Python analysis code
-
+-**`titanic_data_exploration.ipynb`**-The Jupyter Notebook titanic_data_exploration.ipynb contains all the Python code for the complete analysis.
 ## Key Methods Used
 - `df.describe()` - Statistical summary
 - `df.info()` - Dataset information  
